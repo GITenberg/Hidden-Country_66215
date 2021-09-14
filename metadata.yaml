@@ -1,5 +1,8 @@
 _repo: Hidden-Country_66215
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66215-h/images/cover.jpg
 creator:
   author:
     agent_name: Oyen, Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8648'
     url: http://www.gutenberg.org/2009/agents/8648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66215#Hidden-Country
 gutenberg_issued: '2021-09-04'
 identifiers:
   gutenberg: '66215'
